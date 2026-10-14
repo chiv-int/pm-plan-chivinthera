@@ -1,0 +1,1 @@
+Lab-01 completed: charter, stakeholders, business case, process groups 
