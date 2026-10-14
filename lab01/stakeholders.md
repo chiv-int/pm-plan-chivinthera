@@ -1,0 +1,3 @@
+S01 (Head of the IT department) and S09 (Software Engineering lecturer) have high influence and high interest; they get the PM's attention first because they provide the funding, evaluate the final grade, and define the ultimate success of the capstone project. 
+
+S08 (Data protection officer) is the veto stakeholder because if they do not approve the storage of student names and data on the VPS, the week 14 pilot cannot legally run.
