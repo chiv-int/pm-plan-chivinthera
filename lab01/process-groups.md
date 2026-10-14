@@ -22,7 +22,7 @@ gantt
   Re-planning after each status review   :p2, 2026-10-20, 77d
   section Executing
   Build to MVP (Must features)           :e1, 2026-10-13, 35d
-  MVP demo                               :milestone, m1, 2026-11-17, 0d
+  MVP demo                               :milestone, m1, 2026-11-10, 0d
   Should and Could features, hardening   :e2, 2026-11-17, 42d
   section Monitoring and controlling
   Weekly status, variance, change log    :m2, 2026-09-29, 98d

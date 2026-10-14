@@ -5,7 +5,7 @@
 | Version  | 1.0 (draft for sponsor approval)   |
 | Date     | 2026-09-29                         |
 | Sponsor  | Head of the IT department          |
-| PM       | Your Name, supervising lecturer    |
+| PM       | Chiv Inthera, supervising lecturer    |
 
 ## 1. Purpose and justification
 Lecturers currently spend excessive time manually marking quizzes and lack a tool for immediate student feedback during classes. The Realtime Quiz platform provides a live, WebSocket-driven application where students answer timed multiple-choice questions with instant scoring. This reduces marking load, increases classroom engagement, and keeps data ownership on campus. See business-case.md for the financial justification.

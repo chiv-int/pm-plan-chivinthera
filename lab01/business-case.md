@@ -13,7 +13,7 @@ Assumptions:
 |--------|-------------|--------------|-------------|----------------|
 | A      | Do nothing  | 0            | 0           | 0              |
 | B      | Buy SaaS    | 0            | 1,800       | 3,000          |
-| C      | Build       | 4,900        | 300         | 4,800          |
+| C      | Build       | 4,900        | 300         | 4,500          |
 
 *Note: Option B assumes an educational SaaS tier at 15 USD per lecturer per month.*
 
